@@ -1,5 +1,7 @@
 # goit-js-hw-06
 
+https://s1avyan.github.io/goit-js-hw-06/
+
 ----------------------------------------------Задание 1
 В HTML есть список категорий ul#categories.
 
